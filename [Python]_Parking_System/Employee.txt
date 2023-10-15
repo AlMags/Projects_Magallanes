@@ -1,9 +1,0 @@
-=======================================================
-      USERNAME          :           Employee
-      EMAIL             :           emp@gmail.com
-      FLOOR CHOICE      :           4
-      PILLAR CHOICE     :           R
-      TIME              :           6 HOURS
-      AMOUNT PAID       :           Php 300
-      STATUS            :           LOGGED OUT
-=======================================================

@@ -1,9 +1,0 @@
-=======================================================
-      USERNAME          :           Logi
-      EMAIL             :           logi@gmail.com
-      FLOOR CHOICE      :           2
-      PILLAR CHOICE     :           H
-      TIME              :           3 HOURS
-      AMOUNT PAID       :           Php 150
-      STATUS            :           LOGGED OUT
-=======================================================

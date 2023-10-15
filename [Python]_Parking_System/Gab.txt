@@ -1,9 +1,0 @@
-=======================================================
-      USERNAME          :           Gab
-      EMAIL             :           gab@gmail.com
-      FLOOR CHOICE      :           3
-      PILLAR CHOICE     :           M
-      TIME              :           3 HOURS
-      AMOUNT PAID       :           Php 150
-      STATUS            :           LOGGED OUT
-=======================================================
