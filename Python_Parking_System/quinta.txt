@@ -1,0 +1,8 @@
+==================================================
+        USERNAME          :       quinta
+        EMAIL             :       quinta@gmail.com
+        FLOOR CHOICE      :       2
+        PILLAR CHOICE     :       J
+        TIME              :       3
+        AMOUNT PAID       :       150
+==================================================

@@ -1,0 +1,25 @@
+12
+***************************************
+**        PASSENGER'S DETAILS        **
+***************************************
+PASSENGER'S NAME: Gab
+
+PASSENGER'S DESTINATION : 600.0
+
+FARE PRICE: PhpDAVAO CITY
+
+NO. OF PASSENGERS: 1.0
+
+NO. OF PASSENGERS WITH DISCOUNT: 1
+
+TOTAL FARE PRICE: Php 600.0
+
+PAY: Php 800.0
+
+CHANGE: Php 200.0
+
+STATUS: PAID
+
+
+***************************************
+***************************************

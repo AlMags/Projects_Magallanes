@@ -1,0 +1,7 @@
+print("="*50)
+print("ADMIN MENU".center(50))
+print("Please select an option".center(50))
+print('%35s' % "[1] View All Reciepts")
+print('%32s' % "[2] View All Users")
+print('%34s' % "[3} View All Parking")
+print('%23s' % "[0} Exit\n")

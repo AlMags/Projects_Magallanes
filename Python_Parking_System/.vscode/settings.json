@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "atomic": "cpp",
+        "condition_variable": "cpp",
+        "semaphore": "cpp",
+        "stop_token": "cpp",
+        "chrono": "cpp",
+        "iosfwd": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "future": "cpp"
+    }
+}

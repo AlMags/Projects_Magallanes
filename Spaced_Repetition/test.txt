@@ -1,0 +1,21 @@
+28, 1.6, 9, 6, What is the Kapampangan term of the English word for Air Rifle, Eskupeta
+28, 1.6, 9, 6, What is the English term of the Kapampangan word for Dalumdum, Darkness
+28, 1.6, 9, 6, What is the Kapampangan term of the English word for Darkness, dalumdum
+28, 1.6, 9, 6, What is the English term of the Kapampangan word for Asuk, Smoke
+28, 1.6, 9, 6, What is the Kapampangan term of the English word for Smoke, Asuk
+28, 1.6, 9, 6, What is the English term of the Kapampangan word for Balen, Town
+28, 1.6, 9, 6, What is the Kapampangan term of the English word for Town, Balen
+28, 1.6, 9, 6, What is the English term of the Kapampangan word for Ebun, Egg
+28, 1.6, 9, 6, What is the Kapampangan term of the English word for Egg, Ebun
+33, 1.4, 8, 7, What is the English term of the Kapampangan word for Eskupeta, Air rifle
+26, 1.4, 7, 6, What is the english phrase of the phrase Tara na, Lets go
+26, 1.4, 7, 6, What is the kapampangan phrase of the phrase Lets go, Tara na
+33, 1.4, 8, 7, What is the english phrase of the phrase Makananu munta king, How to go to
+28, 1.6, 9, 6, What is the kapampangan phrase of the phrase How to go to, Makananu munta king
+33, 1.4, 8, 7, What is the english phrase of the phrase Magkanu ini, How much is this
+27, 1.4, 8, 7, What is the kapampangan phrase of the phrase How much is this, Magkanu ini
+26, 1.5, 7, 6, What is the english phrase of the phrase Mimingat ka, Take care
+28, 1.6, 9, 6, What is the kapampangan phrase of the phrase Take care, Mimingat ka
+26, 1.5, 7, 6, What is the english phrase of the phrase Mangan ta na, Lets eat
+28, 1.6, 9, 6, What is the kapampangan phrase of the phrase Lets eat, Mangan ta na
+
